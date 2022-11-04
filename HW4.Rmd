@@ -82,3 +82,4 @@ joined_data <- shape %>%
   tm_layout(title = "Gender Inequality Difference between 2010 & 2019", legend.position = c("right", "bottom")) +
   tmap_options(max.categories = 115)
 ```
+### HI Github
